@@ -1,0 +1,7 @@
+{
+    "name": "cwp-22-2",
+    "author": "Eugene Kurlovich",
+    "dependencies": {
+        "pn_by_eugene": "^1.0.0"
+    }
+}
